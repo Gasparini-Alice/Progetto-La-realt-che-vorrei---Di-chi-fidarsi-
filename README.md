@@ -1,7 +1,7 @@
 ### LA REALTA' CHE VORREI
 * Titolo del concorso a cui si partecipa: "La Realtà Che Vorrei - Di Chi Fidarsi?"
 * Titolo del progetto: "Informazioni a Portata di Filo"
-* Breve descrizione del progetto:
+* Breve descrizione del progetto: 
   
 
 **_Informazioni sul Gruppo_**

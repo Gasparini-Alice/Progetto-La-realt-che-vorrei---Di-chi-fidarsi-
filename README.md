@@ -1,12 +1,12 @@
 ### _LA REALTA' CHE VORREI_
 * **Titolo del concorso a cui si partecipa**: "La Realtà Che Vorrei - Di Chi Fidarsi?"
 * **Titolo del progetto**: "Informazioni a Portata di Filo"
-* **Breve descrizione del progetto**: Simuleremo il gioco del telefono senza fili - Le informazioni possono essere **modificate facilmente**, come nel gioco, solo con **qualche parola** e le informazioni _positive_ possono trasformarsi in _negative_.
+* **Breve descrizione del progetto**: Gioco di Avventura - Il personaggio principale dovrà affrontare alcuni ostacoli per poter arrivare al tesoro, tra animali ostili e persone malvagie, tutto nell'ambito informatico ovviamente ;)  
 
   
 ### **_Informazioni sul Gruppo_**
 * **Scuola**: ITIS Guglielmo Marconi Verona
-* **Classe**: 3 GI
+* **Classe**: 3°GI
 * **Data**: 04-2025
 
 
